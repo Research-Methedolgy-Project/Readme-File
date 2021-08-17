@@ -2,6 +2,9 @@
     Yashkumar Parikh
     Lakehead University - Computer Science
     Email: parikhy@lakeheadu.ca
+    
+    
+[![GitHub issues](https://img.shields.io/github/issues/Research-Methedolgy-Project/Readme-File)](https://github.com/Research-Methedolgy-Project/Readme-File/issues) [![GitHub forks](https://img.shields.io/github/forks/Research-Methedolgy-Project/Readme-File)](https://github.com/Research-Methedolgy-Project/Readme-File/network)
 
 ## Research Methodology 
 
@@ -121,7 +124,8 @@ We are planning to release a new version which includes Payment Gateway integrat
 
 ## Contributors
 
-[Yash Parikh](https://github.com/yparikh8036)
+[Yash Parikh](https://github.com/yparikh8036)  ![twitter](https://img.shields.io/twitter/follow/parikh_y?style=social)
+
 
 ## Contact Details
 
