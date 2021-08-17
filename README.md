@@ -7,7 +7,7 @@
 
 This Projects are created while doing research about the topic. One Monolith application is created and then the Monolith architechture is replaced by Microservice architechture. 
 
-# Monolith Application Repository:
+# Monolith Application Repository
 1. [Ecommerce Project](https://www.google.comhttps://github.com/Research-Methedolgy-Project/Ecommerce_Project)
 
 # Microservice Applications Repositories:
@@ -20,7 +20,7 @@ This Projects are created while doing research about the topic. One Monolith app
 
 This website is designed for selling products online. Users can register them selfs into the website, filter and search for different products category wise, add product in cart and Order the item. 
 
-## This project include the following things:
+## This project include the following things
 1. Spring Security Configured.
 2. MySQL Configured.
 3. Liquibase Configured.
@@ -31,7 +31,7 @@ This website is designed for selling products online. Users can register them se
 8. Pre-made User and Authority Class with CRUD Rest end points ready.
 9. Swagger Configured.
 
-## Architecture followed:
+## Architecture followed
     
     In this Monolith Project and Services we have used service layer architecture
     with MVC architecture. 
@@ -41,7 +41,7 @@ This website is designed for selling products online. Users can register them se
     a bridge between higer level layer (controller) and lower level
     layer (Repository).
     
-## Project Related Terminologies:
+## Project Related Terminologies
     
     Controller: It is same as a Controller concept in the MVC application 
                 in which controller is a front face of the applicaiton 
