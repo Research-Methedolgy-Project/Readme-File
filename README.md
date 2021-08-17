@@ -16,6 +16,20 @@ These Projects are created while researching on topic "When and How to migrate f
 3. [Order Service](https://github.com/Research-Methedolgy-Project/Order_Service)
 4. [Cart Service](https://github.com/Research-Methedolgy-Project/Cart_Service)
 
+## Table of Contents
+
+1. [Project Description](#project-description)
+2. [This project includes the following things](#this-project-includes-the-following-things)
+3. [Architecture followed](#architecture-followed)
+4. [Project Related Terminologies](#project-related-terminologies)
+5. [Install](#install)
+6. [Swagger URL](#swagger-url)
+7. [Project Status](#project-status)
+8. [Road-map](#road-map)
+9. [Contributors](#contributors)
+10. [Contact Details](#contact-details)
+
+
 ## Project Description
 
 This website is designed for selling products online. Users can register them selfs into the website, filter and search for different products category-wise, add products to the cart and order the item. 
@@ -79,7 +93,7 @@ This website is designed for selling products online. Users can register them se
               
               
               
-## Project Details
+## Install
 
 To run on local follow the given steps:
 
@@ -92,7 +106,7 @@ To run on local follow the given steps:
     
 Every repository has a specific Readme.Md file, you can also look at it for more information.  
 
-### Swagger URL:
+### Swagger URL
 
 For API documentation and testing swagger is configured in every application and services. Only change the port in the following URL,
 [localhost:8080/swagger-ui.html](http:\\localhost:8080/swagger-ui.html)
@@ -104,6 +118,10 @@ We have successfully moved from Monolith architecture to Microservice architectu
 
 ## Road-map
 We are planning to release a new version which includes Payment Gateway integration, Order Tracking, etc. 
+
+## Contributors
+
+[Yash Parikh](https://github.com/yparikh8036)
 
 ## Contact Details
 
