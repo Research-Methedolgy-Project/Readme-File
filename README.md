@@ -91,6 +91,12 @@ To run on local follow the given steps:
     
 Every repository has a specific Readme.Md file, you can also look at it for more information.  
 
+### Swagger URL:
+
+For API documentation and testing swagger is configured in every application and services. Only change the port in the following URL,
+
+[locathost:port/swagger-ui.html](locathost:port/swagger-ui.html)
+
 ## Project Status
 We have successfully moved from Monolith architecture to Microservice architecture.
 
