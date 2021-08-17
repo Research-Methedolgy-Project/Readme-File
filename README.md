@@ -1,7 +1,7 @@
 # When and How to migrate from Monolithic to Microservice Architecture?
-Yashkumar Parikh
-Lakehead University - Computer Science
-Email: parikhy@lakeheadu.ca
+    Yashkumar Parikh
+    Lakehead University - Computer Science
+    Email: parikhy@lakeheadu.ca
 
 ## Research Methodology 
 
