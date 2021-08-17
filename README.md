@@ -11,7 +11,7 @@
 These Projects are created while researching on topic "When and How to migrate from Monolithic to Microservice Architecture?". An application is created and then the applications' Monolith architecture is replaced by Microservice architecture. 
 
 # Monolith Application Repository
-1. [Ecommerce Project](https://www.google.comhttps://github.com/Research-Methedolgy-Project/Ecommerce_Project)
+1. [Ecommerce Project](https://github.com/Research-Methedolgy-Project/Ecommerce_Project)
 
 # Microservice Applications Repositories
 1. [API Gateway](https://github.com/Research-Methedolgy-Project/Api_Gateway)
