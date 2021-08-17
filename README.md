@@ -10,7 +10,7 @@ These Projects are created while researching on topic "When and How to migrate f
 # Monolith Application Repository
 1. [Ecommerce Project](https://www.google.comhttps://github.com/Research-Methedolgy-Project/Ecommerce_Project)
 
-# Microservice Applications Repositories:
+# Microservice Applications Repositories
 1. [API Gateway](https://github.com/Research-Methedolgy-Project/Api_Gateway)
 2. [Product Service](https://github.com/Research-Methedolgy-Project/Product_Service)
 3. [Order Service](https://github.com/Research-Methedolgy-Project/Order_Service)
