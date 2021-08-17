@@ -50,7 +50,8 @@ This website is designed for selling products online. Users can register them se
                 application.
                 
     DTO: It represents the request or response objects that are exposed to the 
-         HTTP Client. It is a simple POJO class that is used in the controller, the service and is not used in the Repository. It is used so that we can only expose those fields 
+         HTTP Client. It is a simple POJO class that is used in the controller, the service and is not used in the Repository. It is used so that we can only expose those fields [localhost:8080/swagger-ui.html](localhost:8080/swagger-ui.html)
+
          from the domain class which are required by the HTTP Client specific to 
          application requirement.
          
@@ -94,8 +95,8 @@ Every repository has a specific Readme.Md file, you can also look at it for more
 ### Swagger URL:
 
 For API documentation and testing swagger is configured in every application and services. Only change the port in the following URL,
+[localhost:8080/swagger-ui.html](http:\\localhost:8080/swagger-ui.html)
 
-[locathost:port/swagger-ui.html](locathost:port/swagger-ui.html)
 
 ## Project Status
 We have successfully moved from Monolith architecture to Microservice architecture.
