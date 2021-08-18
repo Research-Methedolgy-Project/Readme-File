@@ -133,7 +133,7 @@ Anyone has any questions or wants to contribute to the project then write an ema
 
 ## Licence
 
-Copyright 2019 Province of British Columbia
+Copyright 2021 Province of Ontario, Canada
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
